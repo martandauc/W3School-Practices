@@ -1,2 +1,2 @@
 # W3School-Practices Python
-for study
+print("Helo from Github")
